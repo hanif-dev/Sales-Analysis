@@ -182,5 +182,3 @@ This comprehensive project leverages a wide array of tools and technologies for 
 * **Concepts:** Churn Analysis, Demand Forecasting, Customer Segmentation, Price Elasticity, Time Series Analysis, Geospatial Analysis
 
 ---
-
-Dengan struktur ini, halaman Anda akan sangat informatif dan menunjukkan kedalaman keahlian Anda di setiap area analisis. Ingatlah untuk mengganti *placeholder* `URL_TO_YOUR_..._IMAGE` dan `URL_KE_NOTEBOOK_GITHUB_...` dengan *path* atau *link* yang sesuai ke gambar grafik dan *notebook* GitHub Anda.
