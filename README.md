@@ -1,9 +1,4 @@
 ---
-title: "Sales Analysis"
-excerpt: "Multi analysis using sales data in US"
-collection: portfolio
----
----
 title: "Retail Sales Analytics: Comprehensive Data Analysis"
 description: "Detailed overview of 10 in-depth retail sales analyses, covering churn, forecasting, segmentation, and more using sales data in US."
 layout: default
